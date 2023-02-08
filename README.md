@@ -4,13 +4,14 @@
 
 I am Austine Jack Were from Kenya, and Iam software engineer. I have deep experience developing in Python, Django, JavaScript, HTML, and CSS. I’ve used Python and Javascript at scale, and have a broad knowledge of the languages and many of their commonly used packages. I am also fluent in C, and SQL, and am open to learning more. I hope to inspire and mentor upcoming developers.
 
-## SKILLS AND EXPERIENCE
+## Skills and Experience
 * Python
 * Django
 * JavaScript
 * CSS
 * HTML
-
+## Examples of my work
+<img src"https://github.com/Ajackwere/Ajackwere/blob/main/marquee%20git.svg" width="256"/>
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning C, Ruby, and PostgreSQL 
 - 💬 Ask me about Django, web APIs, data structures, algorithms,  coding speed hacks, clean code, choice of frameworks, and tech culture 
@@ -28,23 +29,3 @@ I am Austine Jack Were from Kenya, and Iam software engineer. I have deep experi
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajackwere)](https://github.com/anuraghazra/github-readme-stats)
-
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
