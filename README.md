@@ -12,6 +12,8 @@ I am Austine Jack Were from Kenya, and Iam software engineer. I have deep experi
 * HTML
 ## Examples of my work
 <img src="https://github.com/Ajackwere/Ajackwere/blob/main/git%20gif%20image.gif" width="256"/>
+
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning C, Ruby, and PostgreSQL 
 - 💬 Ask me about Django, web APIs, data structures, algorithms,  coding speed hacks, clean code, choice of frameworks, and tech culture 
@@ -24,7 +26,7 @@ I am Austine Jack Were from Kenya, and Iam software engineer. I have deep experi
 
 
 
-
+<img src="https://github.com/Ajackwere/Ajackwere/blob/main/marquee%20git.svg" width="256"/>
 
 
 
