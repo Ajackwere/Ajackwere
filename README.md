@@ -1,6 +1,6 @@
 ![Full-stack Software Engineer](https://pbs.twimg.com/profile_banners/1354817665634734087/1675835459/600x200)
 ### Hi there 👋, I'm Austine Jack Were
-#### Full-stack Software Engineer
+#### Junior Full-stack Software Engineer
 
 I am Austine Jack Were from Kenya, and I am a software engineer. I have deep experience developing in Python, Django, JavaScript, HTML, and CSS. I’ve used Python and Javascript at scale, and have a broad knowledge of the languages and many of their commonly used packages. I am also fluent in C, and SQL, and am open to learning more. I hope to inspire and mentor upcoming developers.
 
