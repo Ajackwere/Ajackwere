@@ -8,6 +8,7 @@ I am Austine Jack Were from Kenya, and I am a software engineer. I have deep exp
 * Python
 * Django
 * JavaScript
+* C
 * CSS
 * HTML
 ## Examples of my work
@@ -18,7 +19,7 @@ I am Austine Jack Were from Kenya, and I am a software engineer. I have deep exp
 - 🌱 I’m currently learning C, Ruby, and PostgreSQL 
 - 💬 Ask me about Django, web APIs, data structures, algorithms,  coding speed hacks, clean code, choice of frameworks, and tech culture 
 - 📫 How to reach me: Email: austinejackwere@gmail.com, austinewere59@gmail.com Phone: +254700941989 
-- 😄 Website: 
+- 😄 Website: https://austinejackwere.netlify.app/
 - ⚡ Fun fact: I joined tech as a self-taught programmer after graduating with a Bsc degree in Analytical Chemistry 
 
 
