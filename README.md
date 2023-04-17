@@ -9,6 +9,9 @@ I am Austine Jack Were from Kenya, and I am a software engineer. I have deep exp
 * Django
 * JavaScript
 * C
+* NodeJs
+* ReactJs
+* Tailwind CSS
 * CSS
 * HTML
 ## Examples of my work
