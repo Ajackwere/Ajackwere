@@ -3,7 +3,7 @@
 #### Software Engineer
 
 I am Austine Jack Were from Kenya, and I am a fullstack developer!
-I have a strong background in data structures, Python, C, JavaScript, ReactJS, NodeJS, and Django. I have experience building web applications using JavaScript, HTML, and CSS, as well as creating engaging web interfaces using ReactJS and TailwindCSS. I also develope efficient backend systems using NodeJS or Python with Django. If you're looking for a skilled developer to bring your ideas to life, please don't hesitate to reach out.
+I have a strong background in data structures, Python, C, JavaScript, ReactJS, NodeJS, and Django. I have experience building web applications using JavaScript, HTML, and CSS, as well as creating engaging web interfaces using ReactJS and TailwindCSS. I also develop efficient backend systems using NodeJS or Python with Django. If you're looking for a skilled developer to bring your ideas to life, please don't hesitate to reach out.
 
 ## Skills and Experience
 * Python
