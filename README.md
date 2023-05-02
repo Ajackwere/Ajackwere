@@ -2,7 +2,8 @@
 ### Hi there 👋, I'm Austine Jack Were
 #### Software Engineer
 
-I am Austine Jack Were from Kenya, and I am a software engineer. I have deep experience developing in Python, Django, JavaScript, HTML, and CSS. I’ve used Python and Javascript at scale, and have a broad knowledge of the languages and many of their commonly used packages. I am also fluent in C, and SQL, and am open to learning more. I hope to inspire and mentor upcoming developers.
+I am Austine Jack Were from Kenya, and I am a fullstack developer!
+I have a strong background in data structures, Python, C, JavaScript, ReactJS, NodeJS, and Django. I have experience building web applications using JavaScript, HTML, and CSS, as well as creating engaging web interfaces using ReactJS and TailwindCSS. I also develope efficient backend systems using NodeJS or Python with Django. If you're looking for a skilled developer to bring your ideas to life, please don't hesitate to reach out.
 
 ## Skills and Experience
 * Python
@@ -16,7 +17,6 @@ I am Austine Jack Were from Kenya, and I am a software engineer. I have deep exp
 * HTML
 ## Examples of my work
 <img src="https://github.com/Ajackwere/Ajackwere/blob/main/git%20gif%20image.gif" width="256"/>
-
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning C, Ruby, and PostgreSQL 
