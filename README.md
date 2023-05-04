@@ -18,7 +18,7 @@ I have a strong background in data structures, Python, C, JavaScript, ReactJS, N
 ## Examples of my work
 <img src="https://github.com/Ajackwere/Ajackwere/blob/main/git%20gif%20image.gif" width="256"/>
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on these: (https://github.com/Ajackwere/realtor-clone-react) and (https://ajackwere.hashnode.dev/).
 - 🌱 I’m currently learning more at ALX and Moringa School 
 - 💬 Ask me about Django, web APIs, data structures, algorithms,  coding speed hacks, clean code, choice of frameworks, and tech culture 
 - 📫 How to reach me: Email: austinejackwere@gmail.com, austinewere59@gmail.com Phone: +254700941989 
