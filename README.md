@@ -9,7 +9,6 @@ I have a strong background in data structures, Python, C, JavaScript, ReactJS, N
 * Python
 * Django
 * JavaScript
-* C
 * NodeJs
 * ReactJs
 * Tailwind CSS
