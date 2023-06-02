@@ -14,6 +14,7 @@ I have a strong background in data structures, Python, C, JavaScript, ReactJS, N
 * Tailwind CSS
 * CSS
 * HTML
+* Firebase 9
 ## Examples of my work
 <img src="https://github.com/Ajackwere/Ajackwere/blob/main/git%20gif%20image.gif" width="256"/>
 
