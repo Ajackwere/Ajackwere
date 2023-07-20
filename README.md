@@ -8,9 +8,11 @@ I have a strong background in data structures, Python, C, JavaScript, ReactJS, N
 ## Skills and Experience
 * Python
 * Django
-* JavaScript
+* Vanilla JavaScript
+* TypeScript
 * NodeJs
 * ReactJs
+* Angular
 * Tailwind CSS
 * CSS
 * HTML
