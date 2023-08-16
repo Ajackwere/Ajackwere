@@ -8,6 +8,7 @@ I have a strong background in data structures, Python, C, JavaScript, ReactJS, N
 ## Skills and Experience
 * Python
 * Django
+* Flask
 * Vanilla JavaScript
 * TypeScript
 * NodeJs
