@@ -9,6 +9,8 @@ I have a strong background in data structures, Python, C, JavaScript, ReactJS, N
 * Python
 * Django
 * Flask
+* SQL(postgress and MySQL)
+* NoSQL(MongoDB and Firebase 9).
 * Vanilla JavaScript
 * TypeScript
 * NodeJs
@@ -17,7 +19,6 @@ I have a strong background in data structures, Python, C, JavaScript, ReactJS, N
 * Tailwind CSS
 * CSS
 * HTML
-* Firebase 9
 ## Examples of my work
 <img src="https://github.com/Ajackwere/Ajackwere/blob/main/git%20gif%20image.gif" width="256"/>
 
