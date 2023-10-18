@@ -10,7 +10,7 @@ I have a strong background in data structures, Python, C, JavaScript, ReactJS, A
 * Django
 * Flask
 * SQL(postgress and MySQL)
-* NoSQL(MongoDB and Firebase 9).
+* NoSQL(Firebase 9).
 * Vanilla JavaScript
 * TypeScript
 * NodeJs
