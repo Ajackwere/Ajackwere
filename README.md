@@ -3,7 +3,7 @@
 #### Software Engineer
 
 I am a full-stack software developer!
-I have a strong background in Python, C, JavaScript, ReactJS, Angular, MySQL, Flask, NodeJS, and Django. I have experience building web applications using JavaScript, HTML, and CSS, as well as creating engaging web interfaces using ReactJS and TailwindCSS. I also develop efficient backend systems using NodeJS or Flask. If you're looking for a skilled developer to bring your ideas to life, please don't hesitate to reach out.
+I have a strong background in Python, C, JavaScript, ReactJS, Angular, MySQL, Flask, NodeJS, and Django. I have experience building web applications using JavaScript, HTML, and CSS, as well as creating engaging web interfaces using ReactJS and TailwindCSS. I also develop efficient backend systems using Django or Flask. If you're looking for a skilled developer to bring your ideas to life, please don't hesitate to reach out.
 
 ## Skills and Experience
 * Python
