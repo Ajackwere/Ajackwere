@@ -26,7 +26,7 @@ I have a strong background in Python, C, JavaScript, ReactJS, Angular, MySQL, Fl
 - 🌱 I’m currently learning more at Moringa School 
 - 💬 Ask me about Django, web APIs, data structures, algorithms,  coding speed hacks, clean code, choice of frameworks, and tech culture 
 - 📫 How to reach me: Email: austinejackwere@gmail.com, austinewere59@gmail.com Phone: +254700941989 
-- 😄 Website: https://austinejackwere.netlify.app/
+- 😄 Website: https://jackportfolio-psi.vercel.app/
 - ⚡ Fun fact: I joined tech as a self-taught programmer after graduating with a Bsc degree in Analytical Chemistry 
 
 
