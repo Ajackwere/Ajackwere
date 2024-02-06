@@ -23,7 +23,7 @@ I have a strong background in Python, C, JavaScript, ReactJS, Angular, MySQL, Fl
 <img src="https://github.com/Ajackwere/Ajackwere/blob/main/git%20gif%20image.gif" width="256"/>
 
 - 🔭 I’m currently working on: https://jobseekerhub.onrender.com/swagger/.
-- 🌱 I’m currently learning more at Moringa School 
+- 🌱 I’m currently building projects for my clients alongside personal projects 
 - 💬 Ask me about Django, web APIs, data structures, algorithms,  coding speed hacks, clean code, choice of frameworks, and tech culture 
 - 📫 How to reach me: Email: austinejackwere@gmail.com, austinewere59@gmail.com Phone: +254700941989 
 - 😄 Website: https://jackportfolio-psi.vercel.app/
